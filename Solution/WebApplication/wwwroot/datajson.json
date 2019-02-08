@@ -1,0 +1,22 @@
+{
+  "exclude": [
+    {
+      "regDate": "2018-12-06T18:13:29",
+      "mNo": 12,
+      "nContents": "내용을 입력합니다.",
+      "nNo": 1,
+      "delYn": "N",
+      "modDate": "2018-12-06T18:13:29",
+      "nTitle": "테스트"
+    },
+    {
+      "regDate": "2019-02-07T06:53:41",
+      "mNo": 8,
+      "nContents": "contents",
+      "nNo": 3,
+      "delYn": "N",
+      "modDate": "2019-02-07T06:53:41",
+      "nTitle": "title"
+    }
+  ]
+}
